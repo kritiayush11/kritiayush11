@@ -5,15 +5,20 @@ I am a college student majoring in Artificial Intelligence and Data Science. I a
 I am currently working on several projects related to machine learning, data analysis, and natural language processing. Some of my recent projects include:
 
 ~Building a recommendation system for an e-commerce website using collaborative filtering algorithms
+
 ~Analyzing customer churn rate for a telecom company using data visualization techniques
+
 ~Developing a sentiment analysis model for social media posts using deep learning algorithms
 
 ### 🌱 What I'm currently learning
 I am always looking to enhance my skills and knowledge in the field of AI and data science. Some of the topics I am currently learning include:
 
 ~Reinforcement learning/n
+
 ~Generative models
+
 ~Time-series analysis
+
 ~Big data technologies
 
 ### 💬 Ask me about
@@ -21,7 +26,6 @@ If you have any questions about AI and data science, feel free to reach out to m
 
 ### 📫 How to reach me
 LinkedIn: Your LinkedIn Profile URL
-
 Email: Your Email Address
 
 ### ⚡ Fun fact
