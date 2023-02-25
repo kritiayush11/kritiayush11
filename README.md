@@ -25,8 +25,9 @@ I am always looking to enhance my skills and knowledge in the field of AI and da
 If you have any questions about AI and data science, feel free to reach out to me. I would be happy to discuss my experiences, share my knowledge, and learn from your insights.
 
 ### 📫 How to reach me
-LinkedIn: Your LinkedIn Profile URL
-Email: Your Email Address
+Linktree: https://linktr.ee/kriti_ayush
+
+Email: kritiayush11@gmail.com
 
 ### ⚡ Fun fact
 Did you know that the first artificial neural network was invented in the 1940s by Warren McCulloch and Walter Pitts? It consisted of just a few artificial neurons, but it paved the way for the development of modern deep learning models.
