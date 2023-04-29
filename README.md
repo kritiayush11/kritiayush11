@@ -12,7 +12,7 @@ I am currently working on several projects related to machine learning, data ana
 
 ### 🌱 Keen eyes on :
 
-~Reinforcement learning/n
+~Reinforcement learning
 
 ~Generative models
 
