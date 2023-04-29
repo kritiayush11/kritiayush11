@@ -11,7 +11,9 @@ I am a college student majoring in Artificial Intelligence and Data Science.
 I am currently working on several projects related to machine learning, data analysis, and natural language processing like :
 
 ~ Learning to Build a recommendation system for an e-commerce website using collaborative filtering algorithms
+
 ~ Learning to Analyse data using data visualization techniques
+
 ~ Learning to Develop a sentiment analysis model for social media posts using deep learning algorithms
 
 ### Github Stats
