@@ -7,7 +7,7 @@ I am a college student majoring in Artificial Intelligence and Data Science.
  - 📫 How to reach me: Text me on [Twitter](http://twitter.com/krixshh)
  - ⚡ Fun fact: If i wasn't into tech i'd probably be doing visual arts and media production
 
-### 🔭 What I'm currently working on
+### 🔭 Grinding 
 I am currently working on several projects related to machine learning, data analysis, and natural language processing like :
 
 ~ Learning to Build a recommendation system for an e-commerce website using collaborative filtering algorithms
