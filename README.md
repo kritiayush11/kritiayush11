@@ -24,9 +24,11 @@ I am currently working on several projects related to machine learning, data ana
 If you have any questions about AI and data science, feel free to reach out to me. I would be happy to discuss my experiences, share my knowledge, and learn from your insights.
 
 ### 📫 How to reach me
-Linktree: https://linktr.ee/kriti_ayush
-
-Email: kritiayush11@gmail.com
+<p>
+ <a href="http://twitter.com/krixshh" target="blank"><img align="center"          src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+ <a href="http://linkedin.com/in/kriti-ayush" target="blank"><img align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+ <a href="http://instagram.com/krixshh_" target="blank"><img align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+</p>
 
 ### Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krixshh&theme=onedark&show_icons=true&count_private=true)
