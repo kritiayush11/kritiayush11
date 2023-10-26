@@ -60,7 +60,7 @@ I am currently working on several projects related to machine learning, data ana
 <!-- Views and followers --> 
 <p align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=krixshh">
+    <img src="https://komarev.com/ghpvc/?username=kirtee.api">
     <a href="https://github.com/krixshh?tab=followers"><img src="https://img.shields.io/github/followers/krixshh?label=Followers&style=social"       alt="GitHub Badge"></a>
 </p>
 
