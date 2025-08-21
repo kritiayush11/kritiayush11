@@ -57,12 +57,7 @@ I am currently working on several projects related to machine learning, data ana
     <a href="https://discord.gg/https://discord.gg/5xE2Cg9Py7" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" alt"" height="30"/></a>
 </p>
 
-<!-- Views and followers --> 
-<p align="center">
-    <a href="[https://github.com/antonkomarev/github-profile-views-counter]">
-    <img src="https://komarev.com/ghpvc/?username=kirtee.api">
-    <a href="https://github.com/krixshh?tab=followers"><img src="https://img.shields.io/github/followers/krixshh?label=Followers&style=social"       alt="GitHub Badge"></a>
-</p>
+
 
 
 
