@@ -55,7 +55,7 @@ I am currently working on several projects related to machine learning, data ana
 <p align="center">
     <a href="http://twitter.com/krixshh" target="blank"><img align="center"                              src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
     <a href="http://linkedin.com/in/kriti-ayush" target="blank"><img align="center"    src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-    <a href="http://instagram.com/krixshh_" target="blank"><img align="center"    src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+    <a href="(https://www.instagram.com/kirtee.xyz/)" target="blank"><img align="center"    src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
     <a href="https://discord.gg/https://discord.gg/5xE2Cg9Py7" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" alt"" height="30"/></a>
 </p>
 
