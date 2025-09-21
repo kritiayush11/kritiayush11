@@ -11,8 +11,8 @@
 
 I am a college student majoring in Artificial Intelligence and Data Science. 
 
- - 🌱 I’m currently learning **Frontend Development**
- - 👯 I’m looking to collaborate on **Frontend Projects**
+ - 🌱 I’m currently learning **GenAI**
+ - 👯 I’m looking to collaborate on **Role in Data Science**
  - 📫 How to reach me: Text me on [Twitter](http://twitter.com/krixshh) or [LinkedIn](https://www.linkedin.com/in/kriti-ayush/)
  - ⚡ Fun fact: If i wasn't into tech i'd probably be doing visual arts and media production
 
@@ -26,6 +26,8 @@ I am currently working on several projects related to machine learning, data ana
 - Learning to Develop a sentiment analysis model for social media posts using deep learning algorithms
 
 - Learning to Build a recommendation system for an e-commerce website using collaborative filtering algorithms
+
+- Building an Agentic AI from scratch
 
 
 
