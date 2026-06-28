@@ -140,7 +140,6 @@ class KritiAyush:
 | Data Analysis with Python | Cognitive Class / IBM |
 | Big Data 101 | IBM |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kritiayush11&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
