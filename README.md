@@ -203,7 +203,6 @@ class KritiAyush:
 [![Codeforces](https://img.shields.io/badge/Codeforces-kritiayush11-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kritiayush11)
 [![CodeChef](https://img.shields.io/badge/CodeChef-kriti__ayush-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/kriti_ayush)
 [![Email](https://img.shields.io/badge/Email-Kritiayush11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kritiayush11@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-profile-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to)
 
 </div>
 
