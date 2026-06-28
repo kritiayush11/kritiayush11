@@ -21,9 +21,11 @@
 
 ---
 
-<img align="right" alt="AI Engineer Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧠 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class KritiAyush:
@@ -43,11 +45,19 @@ class KritiAyush:
         "Next.js", "PostgreSQL", "AWS",
     ]
 
-    email      = "Kritiayush11@gmail.com"
-    fun_fact   = "I debug in prod and call it 'live testing' 🔥"
+    email    = "Kritiayush11@gmail.com"
+    fun_fact = "I debug in prod and call it 'live testing' 🔥"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif" style="border-radius:8px"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
